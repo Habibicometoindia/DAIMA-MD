@@ -15,12 +15,12 @@ const value = ["99000","88000","77000","660000","55000","44000","33000","22000",
 izumi({
     pattern: "sc$",
     fromMe: mode,
-    desc: "Izumi",
+    desc: "DAIMA",
     type: "info",
 }, async (message, match, client) => {
     var amount = value[Math.floor(Math.random() * value.length)];
     const amountInPaise = parseInt(amount, 10) * 1000;
-    const cap = "Iᴢᴜᴍɪ-ᴠ3\n\nRᴇᴘᴏ:*https://github.com/henrygokugt99/DAIMA-MD*\n\nSᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:*https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r*\n\nLɪᴠᴇ Uꜱᴇʀꜱ Cᴏᴜɴᴛ:https://users.maskser.me";
+    const cap = "Iᴢᴜᴍɪ-ᴠ3\n\nRᴇᴘᴏ:*https://github.com/henrygokugt99/DAIMA-MD*\n\nSᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:*https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r*\n\njoin my WhatsApp channel:https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23";
 
     await message.client.relayMessage(message.jid, {
         requestPaymentMessage: {
