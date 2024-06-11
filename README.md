@@ -4,8 +4,8 @@
 ## Izumi-v3 a simple Multi device Whatsapp Bot   
 ### Setup
 
-[https://i.imgur.com/bWfDDEU.jpg]
-
+🌟 `Bot Intro and Features`
+[![XLICON](https://i.imgur.com/bWfDDEU.jpg)
 
 1. Get Session
    <br>
