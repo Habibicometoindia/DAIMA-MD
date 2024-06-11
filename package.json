@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eypz/DAIMA-MD.git"
+    "url": "git+https://github.com/henrygokugt9/DAIMA-MD.git"
   },
   "keywords": [
     "bot",
@@ -22,9 +22,9 @@
   "developer": "EYPZ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/eypz/DAIMA-MD/issues"
+    "url": "https://github.com/henrygokugt99/DAIMA-MD/issues"
   },
-  "homepage": "https://github.com/eypz/DAIMA-MD#readme",
+  "homepage": "https://github.com/henrygokugt99/DAIMA-MD#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
     "@adiwajshing/keyed-db": "^0.2.4",
