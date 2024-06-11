@@ -1,15 +1,15 @@
 {
-  "name": "Izumi-v3",
+  "name": "DAIMA-MD",
   "version": "3.0.0",
-  "description": "IZUMI-MD simple multi device WhatsApp Bot.",
+  "description": "DAIMA-MD simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
-    "start":  "pm2 start . --attach --name izumi"
+    "start":  "pm2 start . --attach --name DAIMA"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eypz/Izumi-v3.git"
+    "url": "git+https://github.com/eypz/DAIMA-MD.git"
   },
   "keywords": [
     "bot",
@@ -22,9 +22,9 @@
   "developer": "EYPZ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/eypz/Izumi-v3/issues"
+    "url": "https://github.com/eypz/DAIMA-MD/issues"
   },
-  "homepage": "https://github.com/eypz/Izumi-v3#readme",
+  "homepage": "https://github.com/eypz/DAIMA-MD#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
     "@adiwajshing/keyed-db": "^0.2.4",
