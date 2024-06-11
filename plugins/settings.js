@@ -20,7 +20,7 @@ izumi({
 }, async (message, match, client) => {
     var amount = value[Math.floor(Math.random() * value.length)];
     const amountInPaise = parseInt(amount, 10) * 1000;
-    const cap = "Iᴢᴜᴍɪ-ᴠ3\n\nRᴇᴘᴏ:*https://github.com/sataniceypz/IZUMI-V3*\n\nSᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:*https://chat.whatsapp.com/KHvcGD7aEUo8gPocJsYXZe*\n\nLɪᴠᴇ Uꜱᴇʀꜱ Cᴏᴜɴᴛ:https://users.maskser.me";
+    const cap = "Iᴢᴜᴍɪ-ᴠ3\n\nRᴇᴘᴏ:*https://github.com/henrygokugt99/DAIMA-MD*\n\nSᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:*https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r*\n\nLɪᴠᴇ Uꜱᴇʀꜱ Cᴏᴜɴᴛ:https://users.maskser.me";
 
     await message.client.relayMessage(message.jid, {
         requestPaymentMessage: {
