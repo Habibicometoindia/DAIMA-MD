@@ -2,15 +2,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Izumi-v3 a simple Multi device Whatsapp Bot   
-### Setup 
-
-
-
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
-  </a>
-
-
+### Setup
 
 1. Get Session
    <br>
