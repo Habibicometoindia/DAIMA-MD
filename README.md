@@ -4,6 +4,11 @@
 ## Izumi-v3 a simple Multi device Whatsapp Bot   
 ### Setup
 
+<p align="center"
+    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  </a>
+</p>
+
 1. Get Session
    <br>
 <a href='https://izumi.maskser.me' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
