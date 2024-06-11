@@ -4,10 +4,8 @@
 ## Izumi-v3 a simple Multi device Whatsapp Bot   
 ### Setup
 
-<p align="center"
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
-  </a>
-</p>
+[https://i.imgur.com/bWfDDEU.jpg]
+
 
 1. Get Session
    <br>
