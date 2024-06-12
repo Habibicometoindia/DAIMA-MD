@@ -6,11 +6,11 @@
 ![DAIMA](https://i.imgur.com/ZU68hi4.jpeg)
 1. Get Session
    <br>
-<a href='https://izumi.maskser.me' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://idfordaima-5110cd48bed3.herokuapp.com' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Fork This Repository
    <br>
-<a href='https://github.com/sataniceypz/Izumi-V3/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/henrygokugt99/DAIMA-MD/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
 3. Create account on Heroku
    <br>
