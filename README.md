@@ -6,7 +6,7 @@
 ![DAIMA](https://i.imgur.com/ZU68hi4.jpeg)
 1. Get Session
    <br>
-<a href='https://idfordaima-5110cd48bed3.herokuapp.com' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://daimapairingcode-7e324573f805.herokuapp.com/' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Fork This Repository
    <br>
