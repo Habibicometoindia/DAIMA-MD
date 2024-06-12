@@ -5,7 +5,7 @@
   "keywords": ["whatsapp"],
   "repository": "https://github.com/henrygokugt99/DAIMA-MD",
   "website": "https://eypz-izumi.vercel.app",
-  "success_url": "https://github.com/henrygokugt99/DAIMA-MD",
+  "success_url": "https://github.com/sataniceypz/Izumi-v3",
   "stack": "container",
   "env": {
     "SESSION_ID": {
