@@ -18,7 +18,7 @@
 
 4. Deploy on Heroku
    <br>
-<a href='https://izumi-deploy.vercel.app/' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/henrygokugt99/DAIMA-MD/' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ### For getting session in Indian number
 1.  Termux
